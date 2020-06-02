@@ -2,7 +2,7 @@ import React from 'react';
 import {Container,Row, Col} from 'react-bootstrap';
 import AppCard from '../AppCard/AppCard';
 import converterImg from './assets/converter.svg';
-import bmiImg from './assets/bmi.png';
+import bmiImg from './assets/bmi.svg';
 import cryptoImg from './assets/crypto.svg';
 import './App.css';
 

@@ -36,7 +36,7 @@ export default function App() {
         <br/>
         <Row>
 
-          <Col xs="12" sm="12" md="6" lg="4" >
+          <Col xs="12" sm="12" md="6" lg="12" >
             <br />
             <AppCard title="Satellite Tracker" href="https://the-redlord.github.io/satTrack/" img={satImg} />
           </Col>

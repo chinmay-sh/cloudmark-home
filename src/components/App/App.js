@@ -4,6 +4,7 @@ import AppCard from '../AppCard/AppCard';
 import converterImg from './assets/converter.svg';
 import bmiImg from './assets/bmi.svg';
 import cryptoImg from './assets/crypto.svg';
+import satImg from './assets/sattrack.svg';
 import './App.css';
 
 export default function App() {
@@ -31,6 +32,15 @@ export default function App() {
           <br/>
             <AppCard title="Crypto Ticker" href="https://the-redlord.github.io/crypto_ticker/" img={cryptoImg} />
           </Col>
+        </Row>
+        <br/>
+        <Row>
+
+          <Col xs="12" sm="12" md="6" lg="4" >
+            <br />
+            <AppCard title="Satellite Tracker" href="https://the-redlord.github.io/satTrack/" img={satImg} />
+          </Col>
+
         </Row>
         <br/>
       </Container>

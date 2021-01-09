@@ -1,6 +1,6 @@
 {
-  "homepage": "https://the-redlord.github.io",
-  "name": "the-redlord.github.io",
+  "homepage": "https://the-redlord.github.io/cloudmark-home/",
+  "name": "cloudmark-home",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
